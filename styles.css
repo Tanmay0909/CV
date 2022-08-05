@@ -1,0 +1,134 @@
+body{
+  margin:0;
+  text-align: center;
+  background-color: #F5E8E4;
+
+}
+h1{
+  margin:0;
+  font-family: 'Merriweather', serif;
+  font-size: 42px;
+  color: #2C3333
+
+}
+h2{
+  color: #5C3D2E;
+}
+h3{
+  font-family: 'Averia Libre', cursive;
+  color: #D1512D;
+
+
+
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+.heading{
+  font-family: sans-serif;
+  font-size: 25px;
+  position:absolute;
+  top:140px;
+  right:685px;
+  color:#2C3333
+
+}
+.top{
+  background-color: #CA955C;
+  position: relative;
+  padding-top:100px;
+}
+.top-cloud{
+  width: 200px;
+  position: absolute;
+  right:360px;
+  top:50px;
+}
+.bottom-cloud{
+  width: 200px;
+  position: absolute;
+  left:360px;
+  bottom:300px
+}
+.profile{
+  margin: auto;
+  padding-top:10px;
+}
+.ptext{
+  width: 30%;
+  margin: auto;
+  line-height: 1.5;
+}
+.skill{
+  width:25%;
+  float:left;
+  margin-right: 20px;
+}
+.football{
+  width:30%;
+  float: right;
+}
+.skill-row1{
+  margin:75px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+.skill-row2{
+  margin:100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-top: 20px;
+}
+.contact-me{
+  margin: 40px auto 60px auto;
+}
+.btn {
+  background: #d69651;
+  background-image: -webkit-linear-gradient(top, #d69651, #ba844e);
+  background-image: -moz-linear-gradient(top, #d69651, #ba844e);
+  background-image: -ms-linear-gradient(top, #d69651, #ba844e);
+  background-image: -o-linear-gradient(top, #d69651, #ba844e);
+  background-image: linear-gradient(to bottom, #d69651, #ba844e);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Averia Libre', cursive;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+a{
+  color: #D1512D;
+  font-size:18px;
+  font-family: 'Averia Libre', cursive;
+  margin: 10px 20px;
+  font-weight: bold;
+  text-decoration:none;
+}
+a:hover{
+  color:#F5C7A9;
+}
+.btn:hover {
+  background: #876445;
+  text-decoration: none;
+}
+.bottom-container{
+  background-color:  #CA955C;
+  padding: 50px 0 20px 0;
+  color: white;
+}
+.copyright{
+  font-size: 15px;
+  padding-top: 20px;
+}
+.as{
+  padding: 20px ;
+}
